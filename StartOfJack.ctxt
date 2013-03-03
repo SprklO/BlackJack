@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=StartOfJack()
+comment1.params=p1
+comment1.target=void\ addScore(Player)
+comment2.params=myScore
+comment2.target=boolean\ isBust(int)
+comment3.target=void\ playHand()
+comment4.target=void\ displayDeck()
+comment5.target=void\ displayPlayer()
+comment6.params=p1
+comment6.target=void\ displayPlayer(Player)
+comment7.params=p1
+comment7.target=void\ hitOrStay(Player)
+comment8.target=void\ whoWins()
+comment9.target=void\ playGame()
+numComments=10
